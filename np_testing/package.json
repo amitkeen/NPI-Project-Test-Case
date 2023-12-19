@@ -1,0 +1,21 @@
+{
+  "name": "np_testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^119.0.1",
+    "geckodriver": "^4.3.0",
+    "selenium-webdriver": "^4.16.0",
+    "webdriverio": "^8.26.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "description": ""
+}
